@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+.venv/
+data/*_clean.parquet
+data/langid/
+data/lyrics.csv
